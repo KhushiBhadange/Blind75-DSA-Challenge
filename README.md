@@ -13,60 +13,60 @@ Curated List of [Top 75](https://gist.github.com/krishnadey30/88c4e2f601e9659797
 | Problem | Difficulty | Category | Tags | LeetCode |
 | --- | --- | --- | --- | --- |
 | [Two Sum] | <img src="https://img.shields.io/badge/-Easy-green" /> | `Array` | `Array`, `Hash Table` | [:link:](https://leetcode.com/problems/two-sum/) |
-| [Best Time to Buy and Sell Stock] | <img src="https://img.shields.io/badge/-Easy-green" /> | `Array` | [:link:](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) |
-| [Contains Duplicate] | <img src="https://img.shields.io/badge/-Easy-green" /> | `Array` | [:link:](https://leetcode.com/problems/contains-duplicate/description/) |
-| [Product of Array Except Self] | <img src="https://img.shields.io/badge/-Medium-orange" /> | `Array` | [:link:](https://leetcode.com/problems/product-of-array-except-self/description/) |
-| [Maximum Subarray] | <img src="https://img.shields.io/badge/-Easy-green" />  | `Array` | [:link:](https://leetcode.com/problems/maximum-subarray/description/) |
-| [Maximum Product Subarray] | <img src="https://img.shields.io/badge/-Medium-orange" /> | `Array` | [:link:](https://leetcode.com/problems/maximum-product-subarray/description/) |
-| [Find Minimum in Rotated Sorted Array] |<img src="https://img.shields.io/badge/-Medium-orange" /> |`Array` | [:link:](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/) |
-| [Search in Rotated Sorted Array] | <img src="https://img.shields.io/badge/-Medium-orange" /> | `Array` | [:link:](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) |
-| [3Sum] | <img src="https://img.shields.io/badge/-Medium-orange" /> | `Array` | [:link:](https://leetcode.com/problems/3sum/description/) |
-| [Container With Most Water] |  <img src="https://img.shields.io/badge/-Medium-orange" /> | `Array` | [:link:](https://leetcode.com/problems/container-with-most-water/description/) |
-| [Sum of Two Integers] | <img src="https://img.shields.io/badge/-Medium-orange" /> | `Binary` | [:link:](https://leetcode.com/problems/sum-of-two-integers/description/) |
-| [Number of 1 Bits] | <img src="https://img.shields.io/badge/-Easy-green" /> | `Binary` | [:link:](https://leetcode.com/problems/number-of-1-bits/description/) |
-| [Counting Bits] | <img src="https://img.shields.io/badge/-Easy-green" /> | `Binary` | [:link:](https://leetcode.com/problems/counting-bits/description/) |
-| [Missing Number] | <img src="https://img.shields.io/badge/-Easy-green" /> | `Binary` |  [:link:](https://leetcode.com/problems/missing-number/description/) |
-| [Reverse Bits] | <img src="https://img.shields.io/badge/-Easy-green" /> | `Binary` | [:link:](https://leetcode.com/problems/reverse-bits/description/) |
-| [Climbing Stairs] | <img src="https://img.shields.io/badge/-Easy-green" /> | `Dynamic Programming` | [:link:](https://leetcode.com/problems/climbing-stairs/description/) |
-| [Coin Change] | <img src="https://img.shields.io/badge/-Medium-orange" /> | `Dynamic Programming` | [:link:](https://leetcode.com/problems/coin-change/description/) |
-| [Longest Increasing Subsequence] | <img src="https://img.shields.io/badge/-Medium-orange" /> | `Dynamic Programming` | [:link:](https://leetcode.com/problems/longest-increasing-subsequence/description/) |
-| [Longest Common Subsequence] | <img src="https://img.shields.io/badge/-Medium-orange" /> | `Dynamic Programming` | [:link:](https://leetcode.com/problems/longest-common-subsequence/description/) |
-| [Word Break Problem] | <img src="https://img.shields.io/badge/-Medium-orange" /> | `Dynamic Programming` | [:link:](https://leetcode.com/problems/word-break/description/) |
-| [Combination Sum IV] | <img src="https://img.shields.io/badge/-Medium-orange" /> | `Dynamic Programming` | [:link:](https://leetcode.com/problems/combination-sum-iv/description/) |
-| [House Robber] | <img src="https://img.shields.io/badge/-Medium-orange" /> | `Dynamic Programming` | [:link:](https://leetcode.com/problems/house-robber/description/) |
-| [House Robber II] | <img src="https://img.shields.io/badge/-Medium-orange" /> | `Dynamic Programming` | [:link:](https://leetcode.com/problems/house-robber-ii/description/) |
-| [Decode Ways] | <img src="https://img.shields.io/badge/-Medium-orange" /> | `Dynamic Programming` | [:link:](https://leetcode.com/problems/decode-ways/description/) |
-| [Unique Paths] | <img src="https://img.shields.io/badge/-Medium-orange" /> | `Dynamic Programming` | [:link:](https://leetcode.com/problems/unique-paths/description/) |
-| [Jump Game] | <img src="https://img.shields.io/badge/-Medium-orange" /> | `Dynamic Programming` | [:link:](https://leetcode.com/problems/jump-game/description/) |
-| [Clone Graph] | <img src="https://img.shields.io/badge/-Medium-orange" /> | `Graph` |  [:link:](https://leetcode.com/problems/clone-graph/description/) |
-| [Course Schedule] | <img src="https://img.shields.io/badge/-Medium-orange" /> | `Graph` |  [:link:](https://leetcode.com/problems/course-schedule/description/) |
-| [Pacific Atlantic Water Flow] | <img src="https://img.shields.io/badge/-Medium-orange" /> | `Graph` | [:link:](https://leetcode.com/problems/pacific-atlantic-water-flow/description/) |
-| [Number of Islands] | <img src="https://img.shields.io/badge/-Medium-orange" /> | `Graph` | [:link:](https://leetcode.com/problems/number-of-islands/description/) |
-| [Longest Consecutive Sequence] | <img src="https://img.shields.io/badge/-Medium-orange" /> | `Graph` | [:link:](https://leetcode.com/problems/longest-consecutive-sequence/description/) |
-| [Alien Dictionary (Leetcode Premium)] | | `Graph` | [:link:](https://leetcode.com/problems/alien-dictionary/description/) |
-| [Graph Valid Tree (Leetcode Premium)] | | `Graph` | [:link:](https://leetcode.com/problems/graph-valid-tree/description/) |
-| [Number of Connected Components in an Undirected Graph (Leetcode Premium)] | | `Graph` | [:link:](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/description/) |
-| [Insert Interval] | <img src="https://img.shields.io/badge/-Medium-orange" /> | `Interval` | [:link:](https://leetcode.com/problems/insert-interval/description/) |
-| [Merge Intervals] | <img src="https://img.shields.io/badge/-Medium-orange" /> | `Interval` |  [:link:](https://leetcode.com/problems/merge-intervals/description/) |
-| [Non-overlapping Intervals] | <img src="https://img.shields.io/badge/-Medium-orange" /> | `Interval` | [:link:](https://leetcode.com/problems/non-overlapping-intervals/description/) |
-| [Meeting Rooms (Leetcode Premium)] | | `Interval` | [:link:](https://leetcode.com/problems/meeting-rooms/description/) |
-| [Meeting Rooms II (Leetcode Premium)] | | `Interval` | [:link:](https://leetcode.com/problems/meeting-rooms-ii/description/) |
-| [Reverse a Linked List] | <img src="https://img.shields.io/badge/-Easy-green" /> | `Linked List` | [:link:](https://leetcode.com/problems/reverse-linked-list/description/) |
-| [Detect Cycle in a Linked List] | <img src="https://img.shields.io/badge/-Easy-green" /> | `Linked List` | [:link:](https://leetcode.com/problems/linked-list-cycle/description/) |
-| [Merge Two Sorted Lists] | <img src="https://img.shields.io/badge/-Easy-green" /> | `Linked List` | [:link:](https://leetcode.com/problems/merge-two-sorted-lists/description/) |
-| [Merge K Sorted Lists] |  <img src="https://img.shields.io/badge/-Hard-red" /> | `Linked List` | [:link:](https://leetcode.com/problems/merge-k-sorted-lists/description/) |
-| [Remove Nth Node From End Of List] | <img src="https://img.shields.io/badge/-Medium-orange" /> | `Linked List` | [:link:](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) |
-| [Reorder List] | <img src="https://img.shields.io/badge/-Medium-orange" /> | `Linked List` | [:link:](https://leetcode.com/problems/reorder-list/description/) |
-| [Set Matrix Zeroes] | <img src="https://img.shields.io/badge/-Medium-orange" /> | `Matrix` | [:link:](https://leetcode.com/problems/set-matrix-zeroes/description/) |
-| [Spiral Matrix] | <img src="https://img.shields.io/badge/-Medium-orange" /> | `Matrix` | [:link:](https://leetcode.com/problems/spiral-matrix/description/) |
-| [Rotate Image] | <img src="https://img.shields.io/badge/-Medium-orange" /> | `Matrix` | [:link:](https://leetcode.com/problems/rotate-image/description/) |
-| [Word Search] | <img src="https://img.shields.io/badge/-Medium-orange" /> | `Matrix` | [:link:](https://leetcode.com/problems/word-search/description/) |
-| [Longest Substring Without Repeating Characters] | <img src="https://img.shields.io/badge/-Medium-orange" /> | `String`|  [:link:](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) |
-| [Longest Repeating Character Replacement] | <img src="https://img.shields.io/badge/-Medium-orange" /> | `String` | [:link:](https://leetcode.com/problems/longest-repeating-character-replacement/description/) |
-| [Minimum Window Substring] | <img src="https://img.shields.io/badge/-Hard-red" />  | `String` |  [:link:](https://leetcode.com/problems/minimum-window-substring/description/) |
-| [Valid Anagram] | <img src="https://img.shields.io/badge/-Easy-green" />  | `String` | [:link:](https://leetcode.com/problems/valid-anagram/description/) |
-| [Group Anagrams] | <img src="https://img.shields.io/badge/-Medium-orange" /> | `String` | [:link:](https://leetcode.com/problems/group-anagrams/description/) |
-| [Valid Parentheses] | <img src="https://img.shields.io/badge/-Easy-green" />  | `String` | [:link:](https://leetcode.com/problems/valid-parentheses/description/) |
+| [Best Time to Buy and Sell Stock] | <img src="https://img.shields.io/badge/-Easy-green" /> | `Array` | `Array`, `Dynamic Programming` | [:link:](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) |
+| [Contains Duplicate] | <img src="https://img.shields.io/badge/-Easy-green" /> | `Array` | `Array`, `Hash Table`, `Sorting` | [:link:](https://leetcode.com/problems/contains-duplicate/description/) |
+| [Product of Array Except Self] | <img src="https://img.shields.io/badge/-Medium-orange" /> | `Array` | `Array`, `Prefix Sum` | [:link:](https://leetcode.com/problems/product-of-array-except-self/description/) |
+| [Maximum Subarray] | <img src="https://img.shields.io/badge/-Easy-green" />  | `Array` | `Array`, `Divide and Conquer`, `Dynamic Programming` | [:link:](https://leetcode.com/problems/maximum-subarray/description/) |
+| [Maximum Product Subarray] | <img src="https://img.shields.io/badge/-Medium-orange" /> | `Array` | `Array`, `Dynamic Programming` | [:link:](https://leetcode.com/problems/maximum-product-subarray/description/) |
+| [Find Minimum in Rotated Sorted Array] |<img src="https://img.shields.io/badge/-Medium-orange" /> |`Array` | `Array`, `Binary Search` | [:link:](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/) |
+| [Search in Rotated Sorted Array] | <img src="https://img.shields.io/badge/-Medium-orange" /> | `Array` | `Array`, `Binary Search` | [:link:](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) |
+| [3Sum] | <img src="https://img.shields.io/badge/-Medium-orange" /> | `Array` | `Array`, `Two Pointers`, `Sorting` | [:link:](https://leetcode.com/problems/3sum/description/) |
+| [Container With Most Water] |  <img src="https://img.shields.io/badge/-Medium-orange" /> | `Array` | `Array`, `Two Pointers`, `Greedy` | [:link:](https://leetcode.com/problems/container-with-most-water/description/) |
+| [Sum of Two Integers] | <img src="https://img.shields.io/badge/-Medium-orange" /> | `Binary` | `Math`, `Bit Manipulation` | [:link:](https://leetcode.com/problems/sum-of-two-integers/description/) |
+| [Number of 1 Bits] | <img src="https://img.shields.io/badge/-Easy-green" /> | `Binary` | `Divide and Conquer`, `Bit Manipulation` | [:link:](https://leetcode.com/problems/number-of-1-bits/description/) |
+| [Counting Bits] | <img src="https://img.shields.io/badge/-Easy-green" /> | `Binary` | `Dynamic Programming`, `Bit Manipulation` | [:link:](https://leetcode.com/problems/counting-bits/description/) |
+| [Missing Number] | <img src="https://img.shields.io/badge/-Easy-green" /> | `Binary` | `Array`, `Hash Table`, `Math`, `Binary Search`, `Bit Manipulation`, `Sorting` | [:link:](https://leetcode.com/problems/missing-number/description/) |
+| [Reverse Bits] | <img src="https://img.shields.io/badge/-Easy-green" /> | `Binary` | `Divide and Conquer`, `Bit Manipulation` | [:link:](https://leetcode.com/problems/reverse-bits/description/) |
+| [Climbing Stairs] | <img src="https://img.shields.io/badge/-Easy-green" /> | `Dynamic Programming` | `Math`, `Dynamic Programming`, `Memorization` | [:link:](https://leetcode.com/problems/climbing-stairs/description/) |
+| [Coin Change] | <img src="https://img.shields.io/badge/-Medium-orange" /> | `Dynamic Programming` | `Array`, `Dynamic Programming`, `Breadth-First-Search` | [:link:](https://leetcode.com/problems/coin-change/description/) |
+| [Longest Increasing Subsequence] | <img src="https://img.shields.io/badge/-Medium-orange" /> | `Dynamic Programming` | `Array`, `Binary Search`, `Dynamic Programming` | [:link:](https://leetcode.com/problems/longest-increasing-subsequence/description/) |
+| [Longest Common Subsequence] | <img src="https://img.shields.io/badge/-Medium-orange" /> | `Dynamic Programming` | `String`, `Dynamic Programming` | [:link:](https://leetcode.com/problems/longest-common-subsequence/description/) |
+| [Word Break Problem] | <img src="https://img.shields.io/badge/-Medium-orange" /> | `Dynamic Programming` | `Array`, `Hash Table`, `String`, `Dynamic Programming`, `Trie`, `Memorization` | [:link:](https://leetcode.com/problems/word-break/description/) |
+| [Combination Sum IV] | <img src="https://img.shields.io/badge/-Medium-orange" /> | `Dynamic Programming` | `Array`, `Dynamic Programming` | [:link:](https://leetcode.com/problems/combination-sum-iv/description/) |
+| [House Robber] | <img src="https://img.shields.io/badge/-Medium-orange" /> | `Dynamic Programming` | `Array`, `Dynamic Programming` | [:link:](https://leetcode.com/problems/house-robber/description/) |
+| [House Robber II] | <img src="https://img.shields.io/badge/-Medium-orange" /> | `Dynamic Programming` | `Array`, `Dynamic Programming` | [:link:](https://leetcode.com/problems/house-robber-ii/description/) |
+| [Decode Ways] | <img src="https://img.shields.io/badge/-Medium-orange" /> | `Dynamic Programming` | `String`, `Dynamic Programming` | [:link:](https://leetcode.com/problems/decode-ways/description/) |
+| [Unique Paths] | <img src="https://img.shields.io/badge/-Medium-orange" /> | `Dynamic Programming` | `Math`, `Dynamic Programming`, `Combinatorics` | [:link:](https://leetcode.com/problems/unique-paths/description/) |
+| [Jump Game] | <img src="https://img.shields.io/badge/-Medium-orange" /> | `Dynamic Programming` | `Array`, `Dynamic Programming`, `Greedy` | [:link:](https://leetcode.com/problems/jump-game/description/) |
+| [Clone Graph] | <img src="https://img.shields.io/badge/-Medium-orange" /> | `Graph` | `Hash Table`, `Depth-First-Search`, `Breadth-First-Search`, `Graph` | [:link:](https://leetcode.com/problems/clone-graph/description/) |
+| [Course Schedule] | <img src="https://img.shields.io/badge/-Medium-orange" /> | `Graph` | `Depth-First-Search`, `Breadth-First-Search`, `Graph`, `Topological Sort` | [:link:](https://leetcode.com/problems/course-schedule/description/) |
+| [Pacific Atlantic Water Flow] | <img src="https://img.shields.io/badge/-Medium-orange" /> | `Graph` | `Array`, `Depth-First-Search`, `Breadth-First-Search`, `Matrix` | [:link:](https://leetcode.com/problems/pacific-atlantic-water-flow/description/) |
+| [Number of Islands] | <img src="https://img.shields.io/badge/-Medium-orange" /> | `Graph` | `Array`, `Depth-First-Search`, `Breadth-First-Search`, `Union Find`, `Matrix` | [:link:](https://leetcode.com/problems/number-of-islands/description/) |
+| [Longest Consecutive Sequence] | <img src="https://img.shields.io/badge/-Medium-orange" /> | `Graph` | `Array`, `Hash Table`, `Union Find` | [:link:](https://leetcode.com/problems/longest-consecutive-sequence/description/) |
+| [Alien Dictionary (Leetcode Premium)] | | `Graph` | | [:link:](https://leetcode.com/problems/alien-dictionary/description/) |
+| [Graph Valid Tree (Leetcode Premium)] | | `Graph` | | [:link:](https://leetcode.com/problems/graph-valid-tree/description/) |
+| [Number of Connected Components in an Undirected Graph (Leetcode Premium)] | | `Graph` | | [:link:](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/description/) |
+| [Insert Interval] | <img src="https://img.shields.io/badge/-Medium-orange" /> | `Interval` | `Array` | [:link:](https://leetcode.com/problems/insert-interval/description/) |
+| [Merge Intervals] | <img src="https://img.shields.io/badge/-Medium-orange" /> | `Interval` | `Array`, `Sorting` | [:link:](https://leetcode.com/problems/merge-intervals/description/) |
+| [Non-overlapping Intervals] | <img src="https://img.shields.io/badge/-Medium-orange" /> | `Interval` | `Array`, `Dynamic Programming`, `Greedy`, `Sorting` | [:link:](https://leetcode.com/problems/non-overlapping-intervals/description/) |
+| [Meeting Rooms (Leetcode Premium)] | | `Interval` | | [:link:](https://leetcode.com/problems/meeting-rooms/description/) |
+| [Meeting Rooms II (Leetcode Premium)] | | `Interval` | | [:link:](https://leetcode.com/problems/meeting-rooms-ii/description/) |
+| [Reverse a Linked List] | <img src="https://img.shields.io/badge/-Easy-green" /> | `Linked List` | `Linked List`, `Recursion` | [:link:](https://leetcode.com/problems/reverse-linked-list/description/) |
+| [Detect Cycle in a Linked List] | <img src="https://img.shields.io/badge/-Easy-green" /> | `Linked List` | `Hash Table`, `Linked List`, `Two Pointers` | [:link:](https://leetcode.com/problems/linked-list-cycle/description/) |
+| [Merge Two Sorted Lists] | <img src="https://img.shields.io/badge/-Easy-green" /> | `Linked List` | `Linked List`, `Recursion` | [:link:](https://leetcode.com/problems/merge-two-sorted-lists/description/) |
+| [Merge K Sorted Lists] |  <img src="https://img.shields.io/badge/-Hard-red" /> | `Linked List` | `Linked List`, `Divide and Conquer`, `Heap(Priority Queue)`, `Merge Sort` | [:link:](https://leetcode.com/problems/merge-k-sorted-lists/description/) |
+| [Remove Nth Node From End Of List] | <img src="https://img.shields.io/badge/-Medium-orange" /> | `Linked List` | `Linked List`, `Two Pointers` | [:link:](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) |
+| [Reorder List] | <img src="https://img.shields.io/badge/-Medium-orange" /> | `Linked List` | `Linked List`, `Two Pointers`, `Stack`, `Recursion` | [:link:](https://leetcode.com/problems/reorder-list/description/) |
+| [Set Matrix Zeroes] | <img src="https://img.shields.io/badge/-Medium-orange" /> | `Matrix` | `Array`, `Hash Table`, `Matrix` | [:link:](https://leetcode.com/problems/set-matrix-zeroes/description/) |
+| [Spiral Matrix] | <img src="https://img.shields.io/badge/-Medium-orange" /> | `Matrix` | `Array`, `Matrix`, `Simulation` | [:link:](https://leetcode.com/problems/spiral-matrix/description/) |
+| [Rotate Image] | <img src="https://img.shields.io/badge/-Medium-orange" /> | `Matrix` | `Array`, `Math`, `Matrix` | [:link:](https://leetcode.com/problems/rotate-image/description/) |
+| [Word Search] | <img src="https://img.shields.io/badge/-Medium-orange" /> | `Matrix` | `Array`, `Backtracking`, `Matrix` | [:link:](https://leetcode.com/problems/word-search/description/) |
+| [Longest Substring Without Repeating Characters] | <img src="https://img.shields.io/badge/-Medium-orange" /> | `String`| `Hash Table`, `String`, `Sliding Window` |  [:link:](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) |
+| [Longest Repeating Character Replacement] | <img src="https://img.shields.io/badge/-Medium-orange" /> | `String` | `Hash Table`, `String`, `Sliding Window` | [:link:](https://leetcode.com/problems/longest-repeating-character-replacement/description/) |
+| [Minimum Window Substring] | <img src="https://img.shields.io/badge/-Hard-red" />  | `String` | `Hash Table`, `String`, `Sliding Window` | [:link:](https://leetcode.com/problems/minimum-window-substring/description/) |
+| [Valid Anagram] | <img src="https://img.shields.io/badge/-Easy-green" />  | `String` | `Hash Table`, `String`, `Sorting` | [:link:](https://leetcode.com/problems/valid-anagram/description/) |
+| [Group Anagrams] | <img src="https://img.shields.io/badge/-Medium-orange" /> | `String` | `Array`, `Hash Table`, `String`, `Sorting` | [:link:](https://leetcode.com/problems/group-anagrams/description/) |
+| [Valid Parentheses] | <img src="https://img.shields.io/badge/-Easy-green" />  | `String` | `String`, `Stack` | [:link:](https://leetcode.com/problems/valid-parentheses/description/) |
 | [Valid Palindrome] | <img src="https://img.shields.io/badge/-Easy-green" />  | `String` | [:link:](https://leetcode.com/problems/valid-palindrome/description/) |
 | [Longest Palindromic Substring] | <img src="https://img.shields.io/badge/-Medium-orange" /> | `String` | [:link:](https://leetcode.com/problems/longest-palindromic-substring/description/) |
 | [Palindromic Substrings] | <img src="https://img.shields.io/badge/-Medium-orange" /> | `String` | [:link:](https://leetcode.com/problems/palindromic-substrings/description/) |
