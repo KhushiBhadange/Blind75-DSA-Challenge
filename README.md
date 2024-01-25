@@ -12,3 +12,4 @@ Curated List of [Top 75](https://gist.github.com/krishnadey30/88c4e2f601e9659797
 
 | Problem | Difficulty | Category | Tags | LeetCode |
 | --- | --- | --- | --- | --- |
+| Two Sum | <img src="https://img.shields.io/badge/-Easy-green" /> | `Array` | `Array`, `Hash Table` | [:link:](https://leetcode.com/problems/two-sum/) |
