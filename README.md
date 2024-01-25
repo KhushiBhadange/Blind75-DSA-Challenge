@@ -57,34 +57,34 @@ Curated List of [Top 75](https://gist.github.com/krishnadey30/88c4e2f601e9659797
 | [Merge K Sorted Lists] |  <img src="https://img.shields.io/badge/-Hard-red" /> | `Linked List` | [:link:](https://leetcode.com/problems/merge-k-sorted-lists/description/) |
 | [Remove Nth Node From End Of List] | <img src="https://img.shields.io/badge/-Medium-orange" /> | `Linked List` | [:link:](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) |
 | [Reorder List] | <img src="https://img.shields.io/badge/-Medium-orange" /> | `Linked List` | [:link:](https://leetcode.com/problems/reorder-list/description/) |
-| [Set Matrix Zeroes] | `Matrix` | [:link:](https://leetcode.com/problems/set-matrix-zeroes/description/) |
-| [Spiral Matrix] | `Matrix` | [:link:](https://leetcode.com/problems/spiral-matrix/description/) |
-| [Rotate Image] | `Matrix` | [:link:](https://leetcode.com/problems/rotate-image/description/) |
-| [Word Search] | `Matrix` | [:link:](https://leetcode.com/problems/word-search/description/) |
-| [Longest Substring Without Repeating Characters] | `String`|  [:link:](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) |
-| [Longest Repeating Character Replacement] | `String` | [:link:](https://leetcode.com/problems/longest-repeating-character-replacement/description/) |
-| [Minimum Window Substring] | `String` |  [:link:](https://leetcode.com/problems/minimum-window-substring/description/) |
-| [Valid Anagram] | `String` | [:link:](https://leetcode.com/problems/valid-anagram/description/) |
-| [Group Anagrams] | `String` | [:link:](https://leetcode.com/problems/group-anagrams/description/) |
-| [Valid Parentheses] | `String` | [:link:](https://leetcode.com/problems/valid-parentheses/description/) |
-| [Valid Palindrome] | `String` | [:link:](https://leetcode.com/problems/valid-palindrome/description/) |
-| [Longest Palindromic Substring] | `String` | [:link:](https://leetcode.com/problems/longest-palindromic-substring/description/) |
-| [Palindromic Substrings] | `String` | [:link:](https://leetcode.com/problems/palindromic-substrings/description/) |
-| [Encode and Decode Strings (Leetcode Premium)] | `String` | [:link:](https://leetcode.com/problems/encode-and-decode-strings/description/) |
-| [Maximum Depth of Binary Tree] | `Tree` | [:link:](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) |
-| [Same Trees] | `Tree` | [:link:](https://leetcode.com/problems/same-tree/description/) |
-| [Invert/Flip Binary Tree] | `Tree` | [:link:](https://leetcode.com/problems/invert-binary-tree/description/) |
-| [Binary Tree Maximum Path Sum] | `Tree` | [:link:](https://leetcode.com/problems/binary-tree-maximum-path-sum/description/) |
-| [Binary Tree Level Order Traversal] | `Tree` | [:link:](https://leetcode.com/problems/binary-tree-level-order-traversal/description/) |
-| [Serialize and Deserialize Binary Tree] | `Tree` | [:link:](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/) |
-| [Subtree of Another Tree] | `Tree` | [:link:](https://leetcode.com/problems/subtree-of-another-tree/description/) |
-| [Construct Binary Tree from Preorder and Inorder Traversal] | `Tree` | [:link:](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/) |
-| [Validate Binary Search Tree] | `Tree` | [:link:](https://leetcode.com/problems/validate-binary-search-tree/description/) |
-| [Kth Smallest Element in a BST] | `Tree` | [:link:](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/) |
-| [Lowest Common Ancestor of BST] | `Tree` | [:link:](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/) |
-| [Implement Trie (Prefix Tree)] | `Tree` | [:link:](https://leetcode.com/problems/implement-trie-prefix-tree/description/) |
-| [Add and Search Word] | `Tree` | [:link:](https://leetcode.com/problems/design-add-and-search-words-data-structure/description/) |
-| [Word Search II] | `Tree` | [:link:](https://leetcode.com/problems/word-search-ii/description/) |
-| [Merge K Sorted Lists] | `Heap` | [:link:](https://leetcode.com/problems/merge-k-sorted-lists/description/) |
-| [Top K Frequent Elements] | `Heap` | [:link:](https://leetcode.com/problems/top-k-frequent-elements/description/) |
-| [Find Median from Data Stream] | `Heap` | [:link:](https://leetcode.com/problems/find-median-from-data-stream/description/) |
+| [Set Matrix Zeroes] | <img src="https://img.shields.io/badge/-Medium-orange" /> | `Matrix` | [:link:](https://leetcode.com/problems/set-matrix-zeroes/description/) |
+| [Spiral Matrix] | <img src="https://img.shields.io/badge/-Medium-orange" /> | `Matrix` | [:link:](https://leetcode.com/problems/spiral-matrix/description/) |
+| [Rotate Image] | <img src="https://img.shields.io/badge/-Medium-orange" /> | `Matrix` | [:link:](https://leetcode.com/problems/rotate-image/description/) |
+| [Word Search] | <img src="https://img.shields.io/badge/-Medium-orange" /> | `Matrix` | [:link:](https://leetcode.com/problems/word-search/description/) |
+| [Longest Substring Without Repeating Characters] | <img src="https://img.shields.io/badge/-Medium-orange" /> | `String`|  [:link:](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) |
+| [Longest Repeating Character Replacement] | <img src="https://img.shields.io/badge/-Medium-orange" /> | `String` | [:link:](https://leetcode.com/problems/longest-repeating-character-replacement/description/) |
+| [Minimum Window Substring] | <img src="https://img.shields.io/badge/-Hard-red" />  | `String` |  [:link:](https://leetcode.com/problems/minimum-window-substring/description/) |
+| [Valid Anagram] | <img src="https://img.shields.io/badge/-Easy-green" />  | `String` | [:link:](https://leetcode.com/problems/valid-anagram/description/) |
+| [Group Anagrams] | <img src="https://img.shields.io/badge/-Medium-orange" /> | `String` | [:link:](https://leetcode.com/problems/group-anagrams/description/) |
+| [Valid Parentheses] | <img src="https://img.shields.io/badge/-Easy-green" />  | `String` | [:link:](https://leetcode.com/problems/valid-parentheses/description/) |
+| [Valid Palindrome] | <img src="https://img.shields.io/badge/-Easy-green" />  | `String` | [:link:](https://leetcode.com/problems/valid-palindrome/description/) |
+| [Longest Palindromic Substring] | <img src="https://img.shields.io/badge/-Medium-orange" /> | `String` | [:link:](https://leetcode.com/problems/longest-palindromic-substring/description/) |
+| [Palindromic Substrings] | <img src="https://img.shields.io/badge/-Medium-orange" /> | `String` | [:link:](https://leetcode.com/problems/palindromic-substrings/description/) |
+| [Encode and Decode Strings (Leetcode Premium)] | | `String` | [:link:](https://leetcode.com/problems/encode-and-decode-strings/description/) |
+| [Maximum Depth of Binary Tree] | <img src="https://img.shields.io/badge/-Easy-green" />  | `Tree` | [:link:](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) |
+| [Same Trees] | <img src="https://img.shields.io/badge/-Easy-green" />  | `Tree` | [:link:](https://leetcode.com/problems/same-tree/description/) |
+| [Invert/Flip Binary Tree] | <img src="https://img.shields.io/badge/-Easy-green" />  | `Tree` | [:link:](https://leetcode.com/problems/invert-binary-tree/description/) |
+| [Binary Tree Maximum Path Sum] | <img src="https://img.shields.io/badge/-Hard-red" />  | `Tree` | [:link:](https://leetcode.com/problems/binary-tree-maximum-path-sum/description/) |
+| [Binary Tree Level Order Traversal] | <img src="https://img.shields.io/badge/-Medium-orange" /> | `Tree` | [:link:](https://leetcode.com/problems/binary-tree-level-order-traversal/description/) |
+| [Serialize and Deserialize Binary Tree] | <img src="https://img.shields.io/badge/-Hard-red" />  | `Tree` | [:link:](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/) |
+| [Subtree of Another Tree] | <img src="https://img.shields.io/badge/-Easy-green" /> | `Tree` | [:link:](https://leetcode.com/problems/subtree-of-another-tree/description/) |
+| [Construct Binary Tree from Preorder and Inorder Traversal] | <img src="https://img.shields.io/badge/-Medium-orange" /> | `Tree` | [:link:](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/) |
+| [Validate Binary Search Tree] | <img src="https://img.shields.io/badge/-Medium-orange" /> | `Tree` | [:link:](https://leetcode.com/problems/validate-binary-search-tree/description/) |
+| [Kth Smallest Element in a BST] | <img src="https://img.shields.io/badge/-Medium-orange" /> | `Tree` | [:link:](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/) |
+| [Lowest Common Ancestor of BST] | <img src="https://img.shields.io/badge/-Medium-orange" /> | `Tree` | [:link:](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/) |
+| [Implement Trie (Prefix Tree)] | <img src="https://img.shields.io/badge/-Medium-orange" /> | `Tree` | [:link:](https://leetcode.com/problems/implement-trie-prefix-tree/description/) |
+| [Add and Search Word] | <img src="https://img.shields.io/badge/-Medium-orange" /> | `Tree` | [:link:](https://leetcode.com/problems/design-add-and-search-words-data-structure/description/) |
+| [Word Search II] | <img src="https://img.shields.io/badge/-Hard-red" /> | `Tree` | [:link:](https://leetcode.com/problems/word-search-ii/description/) |
+| [Merge K Sorted Lists] | <img src="https://img.shields.io/badge/-Hard-red" /> | `Heap` | [:link:](https://leetcode.com/problems/merge-k-sorted-lists/description/) |
+| [Top K Frequent Elements] | <img src="https://img.shields.io/badge/-Medium-orange" /> | `Heap` | [:link:](https://leetcode.com/problems/top-k-frequent-elements/description/) |
+| [Find Median from Data Stream] | <img src="https://img.shields.io/badge/-Hard-red" /> | `Heap` | [:link:](https://leetcode.com/problems/find-median-from-data-stream/description/) |
