@@ -23,40 +23,40 @@ Curated List of [Top 75](https://gist.github.com/krishnadey30/88c4e2f601e9659797
 | [3Sum] | <img src="https://img.shields.io/badge/-Medium-orange" /> | `Array` | [:link:](https://leetcode.com/problems/3sum/description/) |
 | [Container With Most Water] |  <img src="https://img.shields.io/badge/-Medium-orange" /> | `Array` | [:link:](https://leetcode.com/problems/container-with-most-water/description/) |
 | [Sum of Two Integers] | <img src="https://img.shields.io/badge/-Medium-orange" /> | `Binary` | [:link:](https://leetcode.com/problems/sum-of-two-integers/description/) |
-| [Number of 1 Bits] | `Binary` | [:link:](https://leetcode.com/problems/number-of-1-bits/description/) |
-| [Counting Bits] | `Binary` | [:link:](https://leetcode.com/problems/counting-bits/description/) |
-| [Missing Number] | `Binary` |  [:link:](https://leetcode.com/problems/missing-number/description/) |
-| [Reverse Bits] | `Binary` | [:link:](https://leetcode.com/problems/reverse-bits/description/) |
-| [Climbing Stairs] | `Dynamic Programming` | [:link:](https://leetcode.com/problems/climbing-stairs/description/) |
-| [Coin Change] | `Dynamic Programming` | [:link:](https://leetcode.com/problems/coin-change/description/) |
-| [Longest Increasing Subsequence] | `Dynamic Programming` | [:link:](https://leetcode.com/problems/longest-increasing-subsequence/description/) |
-| [Longest Common Subsequence] | `Dynamic Programming` | [:link:](https://leetcode.com/problems/longest-common-subsequence/description/) |
-| [Word Break Problem] | `Dynamic Programming` | [:link:](https://leetcode.com/problems/word-break/description/) |
-| [Combination Sum] | `Dynamic Programming` | [:link:](https://leetcode.com/problems/combination-sum-iv/description/) |
-| [House Robber] | `Dynamic Programming` | [:link:](https://leetcode.com/problems/house-robber/description/) |
-| [House Robber II] | `Dynamic Programming` | [:link:](https://leetcode.com/problems/house-robber-ii/description/) |
-| [Decode Ways] | `Dynamic Programming` | [:link:](https://leetcode.com/problems/decode-ways/description/) |
-| [Unique Paths] | `Dynamic Programming` | [:link:](https://leetcode.com/problems/unique-paths/description/) |
-| [Jump Game] | `Dynamic Programming` | [:link:](https://leetcode.com/problems/jump-game/description/) |
-| [Clone Graph] | `Graph` |  [:link:](https://leetcode.com/problems/clone-graph/description/) |
-| [Course Schedule] | `Graph` |  [:link:](https://leetcode.com/problems/course-schedule/description/) |
-| [Pacific Atlantic Water Flow] | `Graph` | [:link:](https://leetcode.com/problems/pacific-atlantic-water-flow/description/) |
-| [Number of Islands] | `Graph` | [:link:](https://leetcode.com/problems/number-of-islands/description/) |
-| [Longest Consecutive Sequence] | `Graph` | [:link:](https://leetcode.com/problems/longest-consecutive-sequence/description/) |
-| [Alien Dictionary (Leetcode Premium)] | `Graph` | [:link:](https://leetcode.com/problems/alien-dictionary/description/) |
-| [Graph Valid Tree (Leetcode Premium)] | `Graph` | [:link:](https://leetcode.com/problems/graph-valid-tree/description/) |
-| [Number of Connected Components in an Undirected Graph (Leetcode Premium)] | `Graph` | [:link:](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/description/) |
-| [Insert Interval] | `Interval` | [:link:](https://leetcode.com/problems/insert-interval/description/) |
-| [Merge Intervals] | `Interval` |  [:link:](https://leetcode.com/problems/merge-intervals/description/) |
-| [Non-overlapping Intervals] | `Interval` | [:link:](https://leetcode.com/problems/non-overlapping-intervals/description/) |
-| [Meeting Rooms (Leetcode Premium)] | `Interval` | [:link:](https://leetcode.com/problems/meeting-rooms/description/) |
-| [Meeting Rooms II (Leetcode Premium)] | `Interval` | [:link:](https://leetcode.com/problems/meeting-rooms-ii/description/) |
-| [Reverse a Linked List] | `Linked List` | [:link:](https://leetcode.com/problems/reverse-linked-list/description/) |
-| [Detect Cycle in a Linked List] | `Linked List` | [:link:](https://leetcode.com/problems/linked-list-cycle/description/) |
-| [Merge Two Sorted Lists] | `Linked List` | [:link:](https://leetcode.com/problems/merge-two-sorted-lists/description/) |
-| [Merge K Sorted Lists] | `Linked List` | [:link:](https://leetcode.com/problems/merge-k-sorted-lists/description/) |
-| [Remove Nth Node From End Of List] | `Linked List` | [:link:](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) |
-| [Reorder List] | `Linked List` | [:link:](https://leetcode.com/problems/reorder-list/description/) |
+| [Number of 1 Bits] | <img src="https://img.shields.io/badge/-Easy-green" /> | `Binary` | [:link:](https://leetcode.com/problems/number-of-1-bits/description/) |
+| [Counting Bits] | <img src="https://img.shields.io/badge/-Easy-green" /> | `Binary` | [:link:](https://leetcode.com/problems/counting-bits/description/) |
+| [Missing Number] | <img src="https://img.shields.io/badge/-Easy-green" /> | `Binary` |  [:link:](https://leetcode.com/problems/missing-number/description/) |
+| [Reverse Bits] | <img src="https://img.shields.io/badge/-Easy-green" /> | `Binary` | [:link:](https://leetcode.com/problems/reverse-bits/description/) |
+| [Climbing Stairs] | <img src="https://img.shields.io/badge/-Easy-green" /> | `Dynamic Programming` | [:link:](https://leetcode.com/problems/climbing-stairs/description/) |
+| [Coin Change] | <img src="https://img.shields.io/badge/-Medium-orange" /> | `Dynamic Programming` | [:link:](https://leetcode.com/problems/coin-change/description/) |
+| [Longest Increasing Subsequence] | <img src="https://img.shields.io/badge/-Medium-orange" /> | `Dynamic Programming` | [:link:](https://leetcode.com/problems/longest-increasing-subsequence/description/) |
+| [Longest Common Subsequence] | <img src="https://img.shields.io/badge/-Medium-orange" /> | `Dynamic Programming` | [:link:](https://leetcode.com/problems/longest-common-subsequence/description/) |
+| [Word Break Problem] | <img src="https://img.shields.io/badge/-Medium-orange" /> | `Dynamic Programming` | [:link:](https://leetcode.com/problems/word-break/description/) |
+| [Combination Sum IV] | <img src="https://img.shields.io/badge/-Medium-orange" /> | `Dynamic Programming` | [:link:](https://leetcode.com/problems/combination-sum-iv/description/) |
+| [House Robber] | <img src="https://img.shields.io/badge/-Medium-orange" /> | `Dynamic Programming` | [:link:](https://leetcode.com/problems/house-robber/description/) |
+| [House Robber II] | <img src="https://img.shields.io/badge/-Medium-orange" /> | `Dynamic Programming` | [:link:](https://leetcode.com/problems/house-robber-ii/description/) |
+| [Decode Ways] | <img src="https://img.shields.io/badge/-Medium-orange" /> | `Dynamic Programming` | [:link:](https://leetcode.com/problems/decode-ways/description/) |
+| [Unique Paths] | <img src="https://img.shields.io/badge/-Medium-orange" /> | `Dynamic Programming` | [:link:](https://leetcode.com/problems/unique-paths/description/) |
+| [Jump Game] | <img src="https://img.shields.io/badge/-Medium-orange" /> | `Dynamic Programming` | [:link:](https://leetcode.com/problems/jump-game/description/) |
+| [Clone Graph] | <img src="https://img.shields.io/badge/-Medium-orange" /> | `Graph` |  [:link:](https://leetcode.com/problems/clone-graph/description/) |
+| [Course Schedule] | <img src="https://img.shields.io/badge/-Medium-orange" /> | `Graph` |  [:link:](https://leetcode.com/problems/course-schedule/description/) |
+| [Pacific Atlantic Water Flow] | <img src="https://img.shields.io/badge/-Medium-orange" /> | `Graph` | [:link:](https://leetcode.com/problems/pacific-atlantic-water-flow/description/) |
+| [Number of Islands] | <img src="https://img.shields.io/badge/-Medium-orange" /> | `Graph` | [:link:](https://leetcode.com/problems/number-of-islands/description/) |
+| [Longest Consecutive Sequence] | <img src="https://img.shields.io/badge/-Medium-orange" /> | `Graph` | [:link:](https://leetcode.com/problems/longest-consecutive-sequence/description/) |
+| [Alien Dictionary (Leetcode Premium)] | | `Graph` | [:link:](https://leetcode.com/problems/alien-dictionary/description/) |
+| [Graph Valid Tree (Leetcode Premium)] | | `Graph` | [:link:](https://leetcode.com/problems/graph-valid-tree/description/) |
+| [Number of Connected Components in an Undirected Graph (Leetcode Premium)] | | `Graph` | [:link:](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/description/) |
+| [Insert Interval] | <img src="https://img.shields.io/badge/-Medium-orange" /> | `Interval` | [:link:](https://leetcode.com/problems/insert-interval/description/) |
+| [Merge Intervals] | <img src="https://img.shields.io/badge/-Medium-orange" /> | `Interval` |  [:link:](https://leetcode.com/problems/merge-intervals/description/) |
+| [Non-overlapping Intervals] | <img src="https://img.shields.io/badge/-Medium-orange" /> | `Interval` | [:link:](https://leetcode.com/problems/non-overlapping-intervals/description/) |
+| [Meeting Rooms (Leetcode Premium)] | | `Interval` | [:link:](https://leetcode.com/problems/meeting-rooms/description/) |
+| [Meeting Rooms II (Leetcode Premium)] | | `Interval` | [:link:](https://leetcode.com/problems/meeting-rooms-ii/description/) |
+| [Reverse a Linked List] | <img src="https://img.shields.io/badge/-Easy-green" /> | `Linked List` | [:link:](https://leetcode.com/problems/reverse-linked-list/description/) |
+| [Detect Cycle in a Linked List] | <img src="https://img.shields.io/badge/-Easy-green" /> | `Linked List` | [:link:](https://leetcode.com/problems/linked-list-cycle/description/) |
+| [Merge Two Sorted Lists] | <img src="https://img.shields.io/badge/-Easy-green" /> | `Linked List` | [:link:](https://leetcode.com/problems/merge-two-sorted-lists/description/) |
+| [Merge K Sorted Lists] |  <img src="https://img.shields.io/badge/-Hard-red" /> | `Linked List` | [:link:](https://leetcode.com/problems/merge-k-sorted-lists/description/) |
+| [Remove Nth Node From End Of List] | <img src="https://img.shields.io/badge/-Medium-orange" /> | `Linked List` | [:link:](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) |
+| [Reorder List] | <img src="https://img.shields.io/badge/-Medium-orange" /> | `Linked List` | [:link:](https://leetcode.com/problems/reorder-list/description/) |
 | [Set Matrix Zeroes] | `Matrix` | [:link:](https://leetcode.com/problems/set-matrix-zeroes/description/) |
 | [Spiral Matrix] | `Matrix` | [:link:](https://leetcode.com/problems/spiral-matrix/description/) |
 | [Rotate Image] | `Matrix` | [:link:](https://leetcode.com/problems/rotate-image/description/) |
