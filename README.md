@@ -24,6 +24,15 @@ Curated List of [Top 75](https://gist.github.com/krishnadey30/88c4e2f601e9659797
 | [3Sum](./3sum.js)                                                                 | <img src="https://img.shields.io/badge/-Medium-orange" /> | `Array`, `Two Pointers`, `Sorting`                           | [:link:](https://leetcode.com/problems/3sum/)                                 |
 | [Container With Most Water](./container-with-most-water.js)                       | <img src="https://img.shields.io/badge/-Medium-orange" /> | `Array`, `Two Pointers`, `Greedy`                            | [:link:](https://leetcode.com/problems/container-with-most-water/)            |
 
+## Binary
+| Problem                                    | Difficulty | Tags                 | LeetCode                           |
+|--------------------------------------------|------------|----------------------|------------------------------------|
+| [Sum of Two Integers](./sum-of-two-integers.js)                                   | <img src="https://img.shields.io/badge/-Medium-orange" /> | `Math`, `Bit Manipulation`                                   | [:link:](https://leetcode.com/problems/sum-of-two-integers/)                  |
+| [Number of 1 Bits](./number-of-1-bits.js)                                         | <img src="https://img.shields.io/badge/-Easy-green" />    | `Bit Manipulation`                                           | [:link:](https://leetcode.com/problems/number-of-1-bits/)                     |
+| [Counting Bits]()                                                                 |                                                           |                                                              | [:link:](https://leetcode.com/problems/counting-bits/)                        |
+| [Missing Number]()                                                                |                                                           |                                                              | [:link:](https://leetcode.com/problems/missing-number/)                       |
+| [Reverse Bits]()                                                                  |                                                           |                                                              | [:link:](https://leetcode.com/problems/reverse-bits/)                         |
+
 
 
 
